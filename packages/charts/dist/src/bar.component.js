@@ -6,7 +6,7 @@ var BarComponent = (function () {
     BarComponent.decorators = [
         { type: Component, args: [{
                     selector: 'bar',
-                    templateUrl: 'bar.component.html'
+                    template: "<h1>Gr\u00E1fica de barras</h1>"
                 },] },
     ];
     /** @nocollapse */

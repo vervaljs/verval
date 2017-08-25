@@ -1,5 +1,5 @@
 {
-    "name": "@verval/charts",
+    "name": "@vervaljs/charts",
     "version": "1.0.0",
     "description": "Gráficas utilizando Angular y D3",
     "main": "index.js",

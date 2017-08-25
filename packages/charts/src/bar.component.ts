@@ -5,7 +5,7 @@ import {
 
 @Component({
     selector: 'bar',
-    templateUrl: 'bar.component.html'
+    template: `<h1>Gráfica de barras</h1>`
 })
 export class BarComponent implements OnInit {
 
