@@ -1,8 +1,7 @@
 {
     "name": "@vervaljs/charts",
-    "version": "1.0.0",
     "description": "Gráficas utilizando Angular y D3",
-    "main": "index.js",
+    "main": "index2.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "transpile": "ngc",
@@ -20,8 +19,6 @@
         "zone.js": "^0.8.16"
     },
     "devDependencies": {
-        "@angular/compiler": "^4.3.5",
-        "@angular/compiler-cli": "^4.3.5",
         "copyfiles": "^1.2.0",
         "rimraf": "^2.6.1",
         "rollup": "^0.48.2",

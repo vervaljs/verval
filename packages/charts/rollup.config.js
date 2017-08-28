@@ -1,9 +1,12 @@
+/**
+ * Genera los archivos UMD
+ */
 export default {
     entry: 'dist/index.js',
     dest: 'dist/bundles/charts.umd.js',
     sourceMap: false,
     format: 'umd',
-    moduleName: 'ng.charts',
+    moduleName: 'vervaljs.charts',
     globals: {
       '@angular/core': 'ng.core',
       '@angular/common': 'ng.common'
